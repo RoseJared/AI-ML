@@ -44,3 +44,7 @@ Visualizations are provided to compare predicted vs. actual AQI across models.
    ```bash
    git clone https://github.com/yourusername/aqi-prediction.git
    cd aqi-prediction
+
+We thank the contributors of the datasets used in this project, which were accessed via shared Google Drive links and processed using pandas. The air quality and geographic data were instrumental in developing and evaluating the machine learning models presented here.
+
+https://drive.google.com/file/d/1BFefZwgVG5eBv0f4ocR2tfWKINJ7XzWb/view?usp=sharing
