@@ -5,6 +5,7 @@ This project focuses on predicting the Air Quality Index (AQI) using various mac
 ## Files
 
 - FinalProject.ipynb: A Jupyter notebook containing all preprocessing steps, model implementations, evaluations, visualizations, and commentary.
+- FinalProjectDemo.ipynb: A Jupyter notebook containing a short peice of the full project. It showcases the results of the Random Forset Regressor and the Gradient Boost Regressor.
 - finalproject.py: A Python script version of the notebook for streamlined execution or integration.
 
 ## Objectives
